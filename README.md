@@ -1,0 +1,1 @@
+Docker image from Maven:3.3.3 with the Docker client installed, this is useful for CircleCI when you need to run a docker login command.  You can install the docker client within your CircleCI circle.yml file if you wish but this image just makes life simpler.
